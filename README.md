@@ -1,6 +1,8 @@
 # C Programming Roadmap
+📘 Maintained by TechSquare Solutions | Software Training Institute
 
-This roadmap provides a **structured learning path for C Programming**, designed by **TechSquare Solutions** for beginners and students preparing for technical careers.
+
+This roadmap provides a **structured learning path for C Programming**, designed by **TechSquare Solutions** for beginners and students preparing for technical careers through online and offline training.
 
 This roadmap reflects how C is taught in our **online and offline training programs**.
 
